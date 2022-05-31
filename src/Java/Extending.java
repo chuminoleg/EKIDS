@@ -7,7 +7,9 @@ public class Extending {
 }
 
 class Animals {
-
+    public void canMove() {
+        System.out.println("All animals can move");
+    }
 }
 
 class Dogs extends Animals {
