@@ -2,6 +2,7 @@ package Java;
 
 import java.util.Arrays;
 
+// we did some changes
 public class Array2D {
     public static void main(String[] args) {
         String[] arrayOfGelb = new String[10]; // одномерный массив
